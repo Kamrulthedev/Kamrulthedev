@@ -1,9 +1,11 @@
 <h1 align="star">Hi 👋, I'm Kamrul</h1>
 
 👑 I am Web Developer
+<br>
 🖊️ Love to write code
+<br>
 🎤 Like to share my knowledge
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100083133756172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100083133756172" height="30" width="40" /></a>
