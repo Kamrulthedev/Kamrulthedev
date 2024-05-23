@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamrul</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh.</h3>
+<h3 align="center">A Passionate FULL STACK WEB DEVELOPER from Bangladesh.</h3>
 
 - 🔭 I’m currently working on [E-commerce Product](https://assignment-2-eta-fawn.vercel.app/)
 
