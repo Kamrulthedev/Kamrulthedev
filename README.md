@@ -1,30 +1,31 @@
+## About Me
 <h1 align="star">Hi 👋, I'm Kamrul</h1>
+<p>A Passionate Web Developer with a love for coding and sharing knowledge. With experience in various web technologies, I strive to create efficient and innovative solutions. Currently, I'm working on exciting projects that challenge my skills and help me grow as a developer.</p>
 
-👑 I am Web Developer
-<br>
-🖊️ Love to write code
-<br>
-🎤 Like to share my knowledge
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
 
-<h2>👨‍💻 Skills & Experiance:</h2>
+## 🌐 Connect with Me
 
-✅ Python
-<br>
-✅ TypeScript
-<br>
-✅ JavaScript
-<br>
-✅ HTML5 / CSS3 / React / Tailwind CSS / Bootstrap
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100083133756172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100083133756172" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kamrul-hassan-8661a5288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamrul-hassan-8661a5288/" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/kamrulthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/kamrulthedev" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kamrulthedev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kamrulthedev/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc1ll80pnnb5zh4ey4y6hjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc1ll80pnnb5zh4ey4y6hjha" height="30" width="40" /></a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100083133756172)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamrul-hassan-8661a5288/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kamrulthedev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kamrulthedev/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/uc1ll80pnnb5zh4ey4y6hjha)
 
+## 📊 GitHub Stats
+![Kamrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrulthedev&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulthedev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## 👀 Profile Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=kamrulthedev&color=blue)
 
