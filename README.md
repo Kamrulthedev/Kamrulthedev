@@ -58,7 +58,9 @@
 
 ## 📊 GitHub Stats
 ![Kamrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrulthedev&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kamrulthedev&theme=nightowl&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulthedev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 👀 Profile Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=kamrulthedev&color=blue)
