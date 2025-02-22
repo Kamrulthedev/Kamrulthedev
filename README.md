@@ -43,7 +43,7 @@
 
 ---
 
-### 2. [Buy Nest](https://github.com/your-username/buy-nest)
+### 2. [Buy Nest](https://buy-nest-delta.vercel.app/)
 - **Description:** A dynamic e-commerce platform connecting vendors and customers with advanced shopping features.
 - **Technologies:** React, TypeScript, Redux, Node.js, Express, MongoDB
 - **Features:** 
