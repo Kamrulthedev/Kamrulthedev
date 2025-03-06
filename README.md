@@ -1,5 +1,7 @@
 <img src="https://i.ibb.co/3Y8BXjbr/Black-and-Purple-Gradient-Neon-Futuristic-Technology-Linked-In-Banner.png" alt="Kamrul Hassan Github Cover Image">
 
+🚀 **Full-Stack Web Developer | JavaScript Enthusiast | Open-Source Contributor**  
+💡 Passionate about building scalable web applications with **React, Next.js, Node.js, and TypeScript**.
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/KamrulScripts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamrul-hassan-8661a5288/)
@@ -24,6 +26,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 
 ## ✨ Latest Projects
@@ -60,6 +64,11 @@
 ![Kamrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrulthedev&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kamrulthedev&theme=nightowl&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulthedev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## ✍️ Blog Posts
+[![Kamrul's Dev.to Blog](https://img.shields.io/badge/Dev.to-Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kamrulthedev)
+
 
 
 ## 👀 Profile Visitors
