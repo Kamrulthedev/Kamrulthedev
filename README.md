@@ -41,9 +41,6 @@
   - ID verification for genuine profiles
   - Smooth and responsive UI
 
-<p align="center">
-  <img src="https://i.ibb.co.com/21VfCpQ8/Screenshot-2025-02-22-141846.png" alt="Travel Vista Banner" width="600" higth="200">
-</p>
 
 ---
 
@@ -56,9 +53,6 @@
   - Product comparison and reviews
   - Cart management with multi-vendor support
 
-<p align="center">
-  <img src="https://i.ibb.co.com/7dWdWZqz/Screenshot-2025-02-22-142011.png" alt="Buy Nest Banner" width="600" higth="200">
-</p>
 
 ## 📊 GitHub Stats
 ![Kamrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamrulthedev&show_icons=true&theme=radical)
