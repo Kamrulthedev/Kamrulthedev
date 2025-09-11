@@ -79,11 +79,12 @@
 
 ---
 
-## ✍️ Blogs & Visitors
-<p align="center">
-  <a href="https://dev.to/kamrulthedev"><img src="https://img.shields.io/badge/Dev.to-Blog-000000?style=flat-square&logo=dev.to&logoColor=white"/></a>
-  &nbsp; | &nbsp;
-  ![Visitor Count](https://komarev.com/ghpvc/?username=kamrulthedev&color=20C20E&style=flat-square)
-</p>
+## ✍️ Blog Posts
+[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kamrulthedev)
+
+---
+
+## 👀 Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=kamrulthedev&color=20C20E&style=flat-square)
 
 
