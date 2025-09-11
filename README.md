@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/3Y8BXjbr/Black-and-Purple-Gradient-Neon-Futuristic-Technology-Linked-In-Banner.png" alt="Kamrul Hassan Github Cover Image">
+<img src="https://i.ibb.co.com/WpsS35D4/image.png" alt="Kamrul Hassan Github Cover Image">
 
 🚀 **Full-Stack Web Developer | JavaScript Enthusiast | Open-Source Contributor**  
 💡 Passionate about building scalable web applications with **React, Next.js, Node.js, and TypeScript**.
