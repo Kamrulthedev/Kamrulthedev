@@ -20,7 +20,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Sharpening skills in **MERN & Next.js**  
+- 🔭 Sharpening skills in **Full Stack & Next.js**  
 - 🌱 Diving into **Data Science & ML** with Python  
 - 👯 Open to **collaborative open-source projects**  
 - 💬 Ask me about **React, Redux, JavaScript, TypeScript, Node.js, MongoDB PostgreSQL**  
