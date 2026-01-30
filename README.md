@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#20C20E">Kamrul Hassan</span></h1>
+<h1 align="center">Kamrul Hasan</h1>
 
-<h3 align="center">🚀 Full-Stack Developer | JavaScript Enthusiast | Open-Source Contributor</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="center">
-  🇧🇩 From Bangladesh • 💻 Turning ideas into scalable web apps • 📊 Exploring Data Science
+  Full-Stack Developer | JavaScript Enthusiast | Open-Source Contributor
 </p>
 
 ---
@@ -19,13 +19,15 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Sharpening skills in **Full Stack & Next.js**  
-- 🌱 Diving into **Data Science & ML** with Python  
-- 👯 Open to **collaborative open-source projects**  
-- 💬 Ask me about **React, Redux, JavaScript, TypeScript, Node.js, MongoDB PostgreSQL**  
-- 📫 Reach me: **kamrulthedev@gmail.com**  
-- ⚡ Fun fact: *Code is poetry; bugs are plot twists*  
+## About
+I work on designing and building reliable web applications with a focus on
+clean architecture, scalability, and long-term maintainability.
+
+My interests lie at the intersection of:
+- Distributed and scalable systems
+- Backend architecture and APIs
+- Data-driven and intelligent applications
+- Reach me: **kamrulthedev@gmail.com**  
 
 ---
 
@@ -67,18 +69,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 <p align="center">
-  <!-- Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrulthedev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=kamrulthedev&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulthedev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kamrulthedev&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=kamrulthedev&hide_border=true" height="160"/>
 </p>
 
 
