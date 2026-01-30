@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/kamrul-hassan68/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://dev.to/kamrulthedev"><img src="https://img.shields.io/badge/Dev.to-000000?style=flat-square&logo=dev.to&logoColor=white"/></a>
